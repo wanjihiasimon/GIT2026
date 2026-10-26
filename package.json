@@ -1,0 +1,9 @@
+{
+  "name": "gathered-event-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple local event tracker built with Node.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
